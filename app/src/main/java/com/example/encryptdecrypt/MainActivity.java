@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
         Intent i = new Intent(this,Encrypt.class);
         startActivity(i);
     }
+    public void decrypt(View v){
+        Intent i = new Intent(this,Decrypt.class);
+        startActivity(i);
+    }
 }
