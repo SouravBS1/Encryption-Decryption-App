@@ -30,7 +30,9 @@ developed and tested, for the users’ benefits. When the encrypt decrypt
 application is near completion, more testing will be done in order to make it less 
 buggy or more user friendly.
 
-#Problem Statement
+## Problem Statement
+
+
 The project aims to provide the correct data with security to the users. For 
 some of the users the data might be lost during the transmission process in the 
 network and for some, the data might be changed by the unauthorized person in 
