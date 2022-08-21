@@ -8,6 +8,11 @@ unreadable one. To do so we use encoding algorithms.
 2. Decryption: It is the process of transforming data or information from an 
 unreadable to readable form. To do so we use decoding algorithms.
 
+![image](https://user-images.githubusercontent.com/53852101/185780035-c5f442db-7b0a-4ccd-b0d0-21119ec541c4.png)
+![image](https://user-images.githubusercontent.com/53852101/185780051-e4ec1a22-9ffe-4556-aaff-65743edcc3b7.png)
+![image](https://user-images.githubusercontent.com/53852101/185780111-b9d6653f-0ff2-40c2-9219-f6f6d45523f1.png)
+
+
 This app aims at providing secure transfer of data using secret key such that 
 only the intended or authorized person will be able to decrypt and view the 
 encrypted data.
